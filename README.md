@@ -4,7 +4,8 @@ CS:GO is an online multiplayer shooting game where players are separated into tw
 Sample Graphs:
 
 Visualizing Weapon Distribution per Team
-![image](https://user-images.githubusercontent.com/67389462/192132720-8a00c63c-3caf-4779-91c6-1301e7e19bcf.png)
+![image](https://user-images.githubusercontent.com/67389462/192132843-3a2bcd96-4e1d-4959-a4fe-8749590abb79.png)
+![image](https://user-images.githubusercontent.com/67389462/192132850-046e75cf-daeb-4a0f-9383-0afa72027c25.png)
 
 Armor vs. Win Rate
 ![image](https://user-images.githubusercontent.com/67389462/192132738-bd34ac19-63bd-400f-9146-99ec785b8984.png)
