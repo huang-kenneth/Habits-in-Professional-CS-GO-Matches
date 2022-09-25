@@ -1,7 +1,7 @@
 # Habits-in-Professional-CS-GO-Matches
 CS:GO is an online multiplayer shooting game where players are separated into two teams that have different goals: the CT team and the T team. Our dataset analyzes professional CS:GO tournament matches and we aim to discover different habits and traits in each team. We are interested in discovering the relationship between some of the factors such as weapon choices, armor condition, economy condition, etc., and how it will influence the round results.
 
-Sample Graphs:
+## Sample Graphs:
 
 Visualizing Weapon Distribution per Team
 ![image](https://user-images.githubusercontent.com/67389462/192132843-3a2bcd96-4e1d-4959-a4fe-8749590abb79.png)
