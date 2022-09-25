@@ -19,4 +19,5 @@ Money (after buying) vs. Win Rate
 Teams' Average Health Throughout the Round
 
 ![image](https://user-images.githubusercontent.com/67389462/192132790-a933d085-7cc4-41d0-ad5a-dd458c1afade.png)
+
 ![image](https://user-images.githubusercontent.com/67389462/192132784-848fff62-e66e-4788-9d59-61f5c67c0015.png)
